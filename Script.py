@@ -11,13 +11,10 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT = """
-<b>Hᴇʏ, Tʜɪs ɪs ᴀ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
-
-Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
-
-Wᴀɴᴛ ᴛʜɪs Bᴏᴛ Rᴇᴘᴏ? - <a href='https://github.com/TeamHMT/Auto-search-tamil-bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b> 🙃</b>
-
-Mᴏʀᴇ Iɴғᴏ Aʙᴏᴜᴛ ᴛʜɪs Rᴇᴘᴏ - <a href='https://t.me/TeamHMT_Bots/142'>ᴅᴏᴜʙʟᴇ ᴛᴀᴘ</a></b>
+<b>Nᴏᴛᴇ:
+✭ Bᴏᴛ ɪs Rᴇᴅᴇsɪɢɴ ʙʏ <a href='https://t.me/EK4MPREETSINGH'>Eᴋᴀᴍᴘʀᴇᴇᴛ Sɪɴɢʜ 
+✭ Sᴏᴜʀᴄᴇ - ɪᴛ's ᴀ ᴘʀɪᴠᴀᴛᴇ ʀᴇᴘᴏ ᴀɴᴅ ʏᴏᴜ ᴄᴀɴ ʙᴜʏ ɪᴛ ғʀᴏᴍ ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ
+✭ ғᴏʀ ᴀɴʏ ǫᴜᴇʀʏ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ</b>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -155,9 +152,9 @@ Wᴀɴᴛ ᴛᴏ Kɴᴏᴡ Hᴏᴡ? Fᴏʟʟᴏᴡ Tʜᴇsᴇ Sᴛᴇᴘs:-
 
 sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 1𝟶𝟶 ᴍᴇᴍʙᴇʀs.
 
-sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://mplaylink.com/ref/106324576666323105902>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
+sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://tinyfy.in/ref/Beast>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
 
-sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/TeamHMT_Bots/44> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
+sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href="https://t.me/Moviesgalaxy01"> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
 
 ➣ Yᴏᴜ ᴄᴀɴ ᴄᴏɴɴᴇᴄᴛ ᴀs ᴍᴀɴʏ ɢʀᴏᴜᴘ ʏᴏᴜ ʜᴀᴠᴇ.
 
@@ -198,11 +195,11 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
-╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/TeamHMT_Movie> ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ </a>
-▫️<a href=https://t.me/+aLArXSwMmKlkN2Nl> ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs​ </a>
-╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>""" 
+    CAPTION = """<b>❐ File name:- {file_name}
+❐ File size:- {file_size}
+――――――――――――――――――
+⬜ Movies Search Group:- @MoviesGalaxy120
+⬜ Channel:- @MoviesGalaxy01</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
